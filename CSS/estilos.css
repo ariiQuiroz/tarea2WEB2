@@ -1,0 +1,30 @@
+*{margin: 0px;}
+.padre{
+    background-color: brown;
+    padding: 20px;
+    
+}
+.hijo{
+    background-color: yellow;
+    padding: 20px;
+    margin: 20px;
+
+}
+.nieto{
+    background-color: aquamarine;
+    padding: 20px;
+}
+.bisnieto{
+    background-color: greenyellow;
+    padding: 20px;
+    
+}
+.tataranieto{
+    background-color: cadetblue;
+    padding: 20px;
+
+}
+.tatataranieto{
+    background-color: coral;
+    padding: 20px;
+}
